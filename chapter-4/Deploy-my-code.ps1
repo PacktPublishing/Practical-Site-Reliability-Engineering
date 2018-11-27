@@ -4,3 +4,4 @@ function InstallApplication()
 	Install-WindowsFeature -Name Web-Server 
 	
 }
+InstallApplication
